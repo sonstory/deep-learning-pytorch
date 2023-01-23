@@ -3,6 +3,8 @@
 - 내용의 대부분은 책에 포함되어 있는 내용입니다.
 - 공부 내용을 블로그에 포스팅하고 있습니다. 구체적인 개념과 내용을 확인하기 위해선 아래 블로그 링크를 확인해주세요.
   - [sonstory.tistory.com](sonstory.tistory.com)
+  
+<img src ="https://user-images.githubusercontent.com/79157951/214055347-755539fa-1619-45bb-8348-5237bb4abb43.jpeg" width="400" height="500">
 
 # 목차
 - 순서는 실제 교재와 다릅니다. 개인적으로 공부가 필요하지 않다고 느낀 파트는 제외하였습니다.
