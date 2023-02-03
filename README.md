@@ -1,8 +1,7 @@
 # 딥러닝 파이토치 교과서
 - 혼자서 딥러닝 파이토치 교과서 교재를 공부하며 작성한 코드입니다.
 - 내용의 대부분은 책에 포함되어 있는 내용입니다.
-- 공부 내용을 블로그에 포스팅하고 있습니다. 구체적인 개념과 내용을 확인하기 위해선 아래 블로그 링크를 확인해주세요.
-  - [sonstory.tistory.com](sonstory.tistory.com)
+- 공부 내용을 블로그에 포스팅하고 있습니다. 구체적인 개념과 내용을 확인하기 위해선 아래 [블로그](https://sonstory.tistory.com) 링크를 확인해주세요.
   
 <img src ="https://user-images.githubusercontent.com/79157951/214055347-755539fa-1619-45bb-8348-5237bb4abb43.jpeg" width="400" height="500">
 
