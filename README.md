@@ -9,11 +9,11 @@
 
 # 목차
 - 순서는 실제 교재와 다릅니다. 개인적으로 공부가 필요하지 않다고 느낀 파트는 제외하였습니다.
-1. 파이토치 기초 맛보기
-2. 딥러닝 시작
-3. 합성곱 신경망 1
-4. 합성곱 신경망 2
-4-1. LeNet
-4-2. ResNet CIFAR10 image classification
-4-3. VGGNet CIFAR10 image classfication
-5. 성능 최적화
+- 파이토치 기초 맛보기
+- 딥러닝 시작
+- 합성곱 신경망 1
+- 합성곱 신경망 2
+  - LeNet
+  - ResNet CIFAR10 image classification
+  - VGGNet CIFAR10 image classfication
+- 성능 최적화
