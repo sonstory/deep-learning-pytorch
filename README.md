@@ -13,7 +13,7 @@
 2. 딥러닝 시작
 3. 합성곱 신경망 1
 4. 합성곱 신경망 2
-  4-1. LeNet
-  4-2. ResNet CIFAR10 image classification
-  4-3. VGGNet CIFAR10 image classfication
+4-1. LeNet
+4-2. ResNet CIFAR10 image classification
+4-3. VGGNet CIFAR10 image classfication
 5. 성능 최적화
